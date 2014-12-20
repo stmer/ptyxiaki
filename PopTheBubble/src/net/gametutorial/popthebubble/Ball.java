@@ -3,8 +3,8 @@ package net.gametutorial.popthebubble;
 import android.graphics.Bitmap;
 import android.graphics.Canvas;
 /**
- * Ball
- *
+ * Bubble 
+ * 
  * 
  */
 public class Ball {
